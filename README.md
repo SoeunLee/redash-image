@@ -2,10 +2,10 @@
 official docker images for offline environment
 
 ## contents
-`redash.tar` redash/redash
-`postgres.tar` postgres:9.5-alpine
-`redis.tar` redis:3-alpine
-`maildev.tar` djfarrelly/maildev
+* `redash.tar` redash/redash
+* `postgres.tar` postgres:9.5-alpine
+* `redis.tar` redis:3-alpine
+* `maildev.tar` djfarrelly/maildev
 
 ## docker images
 REPOSITORY           TAG          IMAGE ID       CREATED         SIZE
